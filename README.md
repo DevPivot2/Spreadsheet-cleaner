@@ -10,8 +10,8 @@ A small Python tool that cleans messy CSV data: it removes duplicates and empty 
 
 ## How to run
 
-1. Install [uv](https://docs.astral.sh/uv/)
-2. Run: `uv run cleaner.py`
+pip install pandas
+python cleaner.py
 
 ## What it does
 
